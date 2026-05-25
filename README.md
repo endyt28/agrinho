@@ -19,10 +19,10 @@ O projeto foi construído do zero utilizando as tecnologias de Front-End aprendi
 ---
 
 ## 👤 Autor
-* **Nome:** [Seu Nome Completo]
-* **Série/Ano:** [Ex: 1º Ano do Ensino Médio]
-* **Escola:** [Nome do seu Colégio Estadual ou Escola]
-* **Cidade:** [Sua Cidade - PR]
+* **Nome:** [Endrily Leiriane Canha]
+* **Série/Ano:** [3º Ano do Ensino Médio]
+* **Escola:** [Colégio Estadual Major Vespasiano Carneiro de Mello]
+* **Cidade:** [Castro - PR]
 
 ---
 
