@@ -28,4 +28,4 @@ O projeto foi construído do zero utilizando as tecnologias de Front-End aprendi
 
 ## 🔗 Como visualizar o projeto
 Você pode visualizar o site em funcionamento direto pelo navegador através do link do GitHub Pages:
-👉 [CLIQUE AQUI PARA VER O SITE](COLE_AQUI_O_LINK_DO_SEU_GITHUB_PAGES)
+👉 [CLIQUE AQUI PARA VER O SITE](https://github.com/endyt28/agrinho/blob/main/README.md)
